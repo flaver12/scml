@@ -23,6 +23,7 @@ To run this notebook, you will need the following Python libraries:
 - matplotlib
 - scikit-learn
 - seaborn
+- numpy
 
 These can be installed via pip:
 ```

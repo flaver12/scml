@@ -26,12 +26,12 @@ To run this notebook, you will need the following Python libraries:
 
 These can be installed via pip:
 ```
-pip install pandas matplotlib scikit-learn seaborn
+pip install pandas matplotlib scikit-learn seaborn numpy
 ```
 
 ## Usage
 
-1. Download the dataset from Kaggle and place it in the same directory as the Jupyter Notebook.
+1. Download the dataset from Kaggle and place and rename it to `fifa_data.csv` in the same directory as the Jupyter Notebook.
 2. Ensure all required libraries are installed.
 3. Run the Jupyter Notebook to see the analysis and model predictions.
 
